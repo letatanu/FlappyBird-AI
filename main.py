@@ -163,7 +163,7 @@ def eval_genome(genomes, config):
     clock = pygame.time.Clock()
     score  = 0
     while run:
-        clock.tick(200)
+        clock.tick(50)
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
