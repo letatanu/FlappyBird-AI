@@ -9,7 +9,7 @@ Despite of rapidly developing of new machine learning algorithms such as reinfor
 
 You can find the config for NEAT network in the **config** text file. 
 
-# Preference
+# Reference
 
 Deeply thanks to the tutorial series called **Python Flappy Bird AI Tutorial (with NEAT)** on Youtube from [Tech With Tim](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2). 
 
